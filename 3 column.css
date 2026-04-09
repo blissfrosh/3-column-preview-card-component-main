@@ -1,0 +1,72 @@
+.con1{
+    background-color:  hsl(31, 77%, 52%) ;
+    width: 200px;
+    padding: 30px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+}
+.con2{
+    background-color: hsl(184, 100%, 22%) ;
+    width: 200px;
+    padding: 30px;
+}
+.con3{
+    background-color: hsl(179, 100%, 13%)
+ ;
+ width: 200px;
+ padding: 30px;
+ border-top-right-radius: 3px;
+ border-bottom-right-radius: 3px;
+}
+.conbine{
+    display:flex;
+    height: 370px;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+
+     
+
+}
+h1{
+    color:white ;
+}
+.cc{
+    background-color: white;
+    width:90px;
+    padding-block:6px;
+    padding-inline: 5px;
+    border-radius:15px ;
+    text-align: center;
+    
+    
+    color: hsl(31, 77%, 52%) ;
+     margin-top: 40px;
+
+}
+.aa{
+     background-color: white;
+    width:90px;
+    padding-block: 6px;
+    border-radius:15px ;
+    text-align: center;
+    padding-inline: 5px;
+    color:  hsl(184, 100%, 22%);
+     margin-top: 40px;
+}
+.bb{
+     background-color: white;
+    width:90px;
+    padding-inline:5px ;
+    border-radius:15px ;
+    text-align: center;
+    padding-block: 6px;
+    color:  hsl(179, 100%, 13%);
+    margin-top: 40px;
+}
+ 
+p{
+    line-height: 20px;
+    color: white;
+}
