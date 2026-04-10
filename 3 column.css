@@ -74,7 +74,7 @@ p{
  .conbine{
        display:grid;
        grid-template-columns: repeat(1,1fr); 
-       margin-top:10px ;    
+         
  }
 .con1{
     border-bottom-left-radius: 0px;
