@@ -71,7 +71,7 @@ p{
     color: white;
 }
 @media( width <=500px){
-    .conbine{
+ .conbine{
        display:grid;
        grid-template-columns: repeat(1,1fr); 
        margin-top:10px ;    
